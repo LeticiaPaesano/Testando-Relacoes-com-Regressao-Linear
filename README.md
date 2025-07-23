@@ -136,6 +136,7 @@ with open(nome_arquivo, 'wb') as arquivo:
 ---
 
 ✅ Conclusão 
+
 O projeto desenvolveu um modelo preditivo para estimar preços de imóveis com base em características estruturais usando regressão linear. Após testar diferentes configurações, o modelo 3 foi o escolhido por seu bom desempenho e interpretabilidade.
 > “Fatores exógenos, como localização, infraestrutura do entorno e sazonalidade do mercado, não foram contemplados no modelo e devem ser considerados em análises complementares para estimativas mais realistas.”
 
